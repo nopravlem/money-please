@@ -3,7 +3,7 @@ Name inspired by Mona Lisa Saperstein, of course.
 
 <img src="https://github.com/user-attachments/assets/f96b14c5-ea0d-40c8-821b-4298a43d7711" width="400px" />
 
-I just wanted to learn how to use Electron, so I created yet another budgeting app.
+I just wanted to learn how to use ElectronJS, so I created yet another budgeting app.
 
 ## Demo
 <!-- <img> of app -->
