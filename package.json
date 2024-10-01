@@ -1,0 +1,14 @@
+{
+  "name": "money-please",
+  "version": "1.0.0",
+  "description": "An easy way to manage money, built with Electron",
+  "main": "src/main/index.js",
+  "author": "Prav Tadikonda",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
